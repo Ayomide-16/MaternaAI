@@ -1,4 +1,4 @@
-# MaternaAI — Inference API
+# MaternaAI - Inference API
 
 MaternaAI is a Flask-based inference API designed to predict maternal health risk levels. It serves a trained XGBoost machine learning model and provides highly interpretable predictions using SHAP (SHapley Additive exPlanations).
 
