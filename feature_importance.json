@@ -1,0 +1,26 @@
+{
+  "low": {
+    "Age": 0.2188,
+    "SystolicBP": 0.615,
+    "DiastolicBP": 0.1021,
+    "BS": 0.8479,
+    "BodyTemp": 0.3378,
+    "HeartRate": 0.1308
+  },
+  "mid": {
+    "Age": 0.2218,
+    "SystolicBP": 0.306,
+    "DiastolicBP": 0.1326,
+    "BS": 0.4324,
+    "BodyTemp": 0.0304,
+    "HeartRate": 0.118
+  },
+  "high": {
+    "Age": 0.3843,
+    "SystolicBP": 0.6707,
+    "DiastolicBP": 0.2133,
+    "BS": 1.4315,
+    "BodyTemp": 0.6214,
+    "HeartRate": 0.2357
+  }
+}
